@@ -1,7 +1,7 @@
 # Novel and Innovative Applications for Internet of Things
 
-## A software architecture for the management of Smart Buildings
-## *Larissa Suzuki*
+### A software architecture for the management of Smart Buildings
+### *Larissa Suzuki*
 - managing a physical infrastructure in real time > smart buildings
 - multiple proprietary building systems (access control, hvac control, fire alarm)
 - smart building converged systems, integrated and real time collection of data
@@ -28,15 +28,17 @@
 	- emerging technologies
 
 
-### What would be the next step with software development process?
+**What would be the next step with software development process?**
 > this is already implemented, we want to put in actual meters. We are moving to more advanced technologies. We can send machines instead of people to complete tasks. 
 
-### How do you deal with false-positives?
+**How do you deal with false-positives?**
 > We have to callibrate that specific piece of software to ensure it is a robust system. This serves as a framework to develop further applications. 
 
-## An Insider's Look at the IoT in a Railroad
-## *Yujie Ying*
-### Overview of railrodad sensor technology
+<hr>
+
+### An Insider's Look at the IoT in a Railroad
+### *Yujie Ying*
+**Overview of railrodad sensor technology**
 - thousands of sensors have been installed on and inside the tracks to detect derailment or failure
 - infrared sensors are on the track to detect overheated bearings
 - microphones to recognize audible defects
@@ -74,24 +76,28 @@
 **People crossing railroad tracks, there are several accidents so is there a way to detect this?**
 >Safety is a priority, we have an alerting system. We are currently working on a project: Positive train control system: technology for anti-collision of trains and detecting any obsticals in front of trains. We're getting there.
 
-## PiDoorbell: Home Automation with RaspberryPi
-## *Rupa Dachere*
-**problem:**
+<hr>
+
+### PiDoorbell: Home Automation with RaspberryPi
+### *Rupa Dachere*
+
+- **problem:**
 	1. wanted to know who was at my front door
 	2. what day and time they came
 	3. wanted to be notified when they arrived
-	ex. contractors, package delivery, neighbor, etc.
-**piDoorbell Flow**
+	
+	>ex. contractors, package delivery, neighbor, etc.
+- **piDoorbell Flow**
 	1. caller comes
-	2. proximity sensor outputs changed signal to raspberry pi
-	3. rapsberry pi instructs webcam to take photo
-	4. webcam sends photo to rp
-	5. rp uploades photo and sends sms
-**steps**
+	2. proximity sensor outputs changed signal to RaspberryPi
+	3. RapsberryPi instructs webcam to take photo
+	4. webcam sends photo to RaspberryPi
+	5. RaspberryPi uploades photo and sends sms
+- **steps**
 	- walk in front of proximity sensor
 	- see detection of foreign object
 	- trigger camera to take a photo or start capturing video
 	- save in file with timestamp
 	- send sms
-[code is open sourced](github.com/codechix-opensource)
-**contains: software, handout, tutorial**
+	
+[code is open sourced: software, handout and tutorial](github.com/codechix-opensource)
