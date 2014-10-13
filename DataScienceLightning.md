@@ -1,5 +1,6 @@
 # Data Science Lightning Talks
-## Trusting User Annotations on the Web for Cultural Heritage Domains
+
+### Trusting User Annotations on the Web for Cultural Heritage Domains
 - Crowdsourcing is very efficient for gathering data
 - cultural heritage insitutions have millions of poorly annotated artefacts
 - cultural heritage institutions are employing crowdsourcing to annotate their collections with specific details, but how do you trust this information
@@ -10,7 +11,9 @@
 - provenance: determine when it was posted, typing time, country posted from
 - apply machine learning to train on user, data and provenance features to determine trust of information!
 
-## Only trust your data: experiment, measure and ship!
+<hr> 
+
+### Only trust your data: experiment, measure and ship!
 - most software changes are believed to be positive to the user experience, but are often flat or negative!
 - we are terrible at correctly assessing the value of our own ideas/designs
 - stop debating, just get the data
@@ -30,7 +33,9 @@
 - early on in the project define key metrics you will be optimizing for 
 - avoid the temptations to try and build optimal features through extensive planning without early testing of ideas
 
-## Big data graph mining as a tool for fraud detection
+<hr>
+
+### Big data graph mining as a tool for fraud detection
 - fraud is a big problem, especially in the health care industry
 - lots of data, what to do with it?
 	- patterns
