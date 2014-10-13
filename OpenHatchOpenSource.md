@@ -1,4 +1,6 @@
 # OpenHatch Open Source
+The slides and resources were provided for this talk, click the links below to view them.
+
 [Open Hatch Website](http://openhatch.org/)
 
 [Open Hatch Github](https://github.com/openhatch)
