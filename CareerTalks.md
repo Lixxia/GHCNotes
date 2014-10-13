@@ -1,41 +1,50 @@
 # GHC Career Talks
-## From Sidekick to Superhero
-## *Margaret Mitchell*
-**5 steps**
-**Step 1: supersize your strengths**
+
+### From Sidekick to Superhero
+#### *Margaret Mitchell*
+
+### Step 1: supersize your strengths
 - are you a great relationship person? be brave and build relationships at levels and with people you hnever have before
 - are you great technically? become a leader in your technical expertise
 - are you innovative? create and champion a strategy
 - identify your strengths and use them
-**Step 2: front and center**
+
+### Step 2: front and center
 - initiate the discussion
 - take a seat at the table
 - express your ideas
 - take ownership
 - What do you want to champion?
-**Step 3: slay the villans**
+
+### Step 3: slay the villans
 - ask the tough questions
 - resolve the difficult issues
 - have the difficult conversations
 - accept that not everyone will like you
 - never give up
 - confront your fears
-`"I love conflict it helps me grow"`
-**Step 4: Create a superpower**
+
+>"I love conflict it helps me grow"
+
+### Step 4: Create a superpower
 - learn how to develop a strategy
 - master the new hot technology
 - become a financial wizard
 - communicate like a pro
 - deliver more than expected results
 - there are many avenues to learn : use them!
-**Step 5: Inspire others**
+
+### Step 5: Inspire others
 - bring your team with you
 - be humble
 - own your mistakes (own it, fix it, move on)
 - create more superheroes
 
-## You are not your Impostor Syndrome
-## *Neha Batra*
+<hr>
+
+### You are not your Impostor Syndrome
+### *Neha Batra*
+
 1. What is it? Why is this a thing?
 	- **defined:** the self-doubt that a person experiences when they feel that they do not match the canonical example of a person in the same professional position.
 	- why?
@@ -43,11 +52,12 @@
 		- internalizing failures/externalizing success
 		- environment of fear + self-imposed fear
 2. What can we do about it?
-	**Accepted points:**
+	- **Accepted points:**
 		- my impostor syndrome is not going anywhere
 		- it's everywhere, I am not alone
 		- there is no way i'm letting it get in my way
-	`"I want you to beat your mental battles so you can focus on the ones that count"`
+		
+		>"I want you to beat your mental battles so you can focus on the ones that count"
 	- 6 steps:
 		1. recognize - it's happening
 		2. separate - fact vs. feeling
@@ -56,21 +66,24 @@
 		5. keep on - do it to it
 		6. reflect - were your concerns valid?
 3. What next?
-**cognative behavioral therapy**
-- action-oriented
-- cognitive restructuring
-- changes destructive patterns of behavior
-- pshycotherapeutic approach
-- based on basic behavioral and cognitive principles research
-**combating fear-based environments**
-- help others recognize their own impostor syndrome voice
-- call people out for your peers, if they are uncomfortable
-- reach out to tell people they are doing a good job
-- reach out to help others
-`"If you're constantly pushing yourself, and putting yourself in new environments, you'll fell it over and over again" - Maria Klawe`
+	- **cognative behavioral therapy**
+		- action-oriented
+		- cognitive restructuring
+		- changes destructive patterns of behavior
+		- pshycotherapeutic approach
+		- based on basic behavioral and cognitive principles research
+	- **combating fear-based environments**
+		- help others recognize their own impostor syndrome voice
+		- call people out for your peers, if they are uncomfortable
+		- reach out to tell people they are doing a good job
+		- reach out to help others
+		
+		>"If you're constantly pushing yourself, and putting yourself in new environments, you'll feel it over and over again" - Maria Klawe`
 
-## Networking on the Introvert's Side of the Room
-## Michele Marut
+<hr>
+
+### Networking on the Introvert's Side of the Room
+### Michele Marut
 - introverts: are everywhere, prefer small groups, recharge alone
 - tech activites leverage introvert traits
 - networking: many uses, relies on relationships
