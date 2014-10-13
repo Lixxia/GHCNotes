@@ -11,8 +11,6 @@
 
 **git cherrypick**
 -pull in bugfix to the branch
-git rebase
--complicated as f
 
 **git stache**
 - put something in a special area (copypasta for repo changes)
