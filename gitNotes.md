@@ -10,7 +10,7 @@
 - be careful about commands that edit history, can mess with others workflow 
 
 **git cherrypick**
--pull in bugfix to the branch
+- pull in bugfix to the branch
 
 **git stache**
 - put something in a special area (copypasta for repo changes)
