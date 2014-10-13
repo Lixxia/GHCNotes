@@ -1,3 +1,5 @@
+I only took note of commands new/interesting to me, I would advise following other git tutorials for a more comprehensive look at git and gitHub. (Or feel free to ask me questions!)
+
 **git revert**
 - creates a new commit in history that is the inverse of the previous commit (the inverse of what happens)
 - will show in history 
